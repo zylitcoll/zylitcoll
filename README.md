@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Nama Kamu]!
+# 👋 Hi, I'm zylitcoll !
 I'm a passionate Web Developer & Tech Enthusiast 🚀
 
 ## 🔧 Technologies & Tools
@@ -13,7 +13,7 @@ I'm a passionate Web Developer & Tech Enthusiast 🚀
 ![Neovim](https://img.shields.io/badge/-Neovim-57A143?logo=neovim)
 
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=zylitcoll&show_icons=true&theme=tokyonight)
 
 ## 🔥 Top Langs
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)](https://github.com/zylitcoll)
