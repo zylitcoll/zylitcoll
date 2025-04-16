@@ -16,7 +16,7 @@ I'm a passionate Web Developer & Tech Enthusiast 🚀
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
 
 ## 🔥 Top Langs
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)](https://github.com/yourusername)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)](https://github.com/zylitcoll)
 
 ## 🧠 Currently Learning
 - Advanced Neovim Configuration
