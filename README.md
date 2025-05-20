@@ -10,7 +10,7 @@ I'm a passionate Web Developer & Tech Enthusiast 🚀
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?logo=next.js)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 ![Neovim](https://img.shields.io/badge/-Neovim-57A143?logo=neovim&logoColor=white)
 
 ## 📊 GitHub Stats
