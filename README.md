@@ -29,3 +29,10 @@ I'm a passionate Web Developer & Tech Enthusiast 🚀
 ## 📫 How to reach me
 [![Email](https://img.shields.io/badge/-your@email.com-c14438?logo=gmail&logoColor=white)](mailto:your@email.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
+
+
+<h3 align="center">
+
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fantasque+Sans+Mono&weight=700&size=24&pause=1000&color=0e75b6&center=true&width=446&lines=Thank+you+for+visiting!+%F0%9F%91%8D)](https://git.io/typing-svg)
+
+</h3>
