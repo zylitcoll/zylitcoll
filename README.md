@@ -17,7 +17,7 @@ I'm a passionate Web Developer & Tech Enthusiast 🚀
 
 ## 📊 GitHub Stats
 ![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=zylitcoll&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=zylitcoll&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=480)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=zylitcoll&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=480)](https://git.io/streak-stats)
 
 ## 🔥 Top Langs
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zylitcoll&layout=compact&theme=tokyonight)](https://github.com/zylitcoll)
