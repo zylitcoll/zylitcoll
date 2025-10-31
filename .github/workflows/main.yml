@@ -33,7 +33,7 @@ jobs:
         with:
           target_branch: output
           # 'build_dir: .' karena SVG dibuat di root repo
-          build_dir: dist
+          build_dir: .
           allow_empty_commit: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
