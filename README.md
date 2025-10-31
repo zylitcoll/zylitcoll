@@ -46,7 +46,7 @@ I'm a passionate Web Developer & Tech Enthusiast 🚀
 
 <picture>
   <source media="(prefers-color-scheme: dark)" 
-          srcset="https://raw.githubusercontent.com/zyllitcoll/zyllitcoll/output/dist/pacman-contribution-graph-dark.svg">
+          srcset="https://raw.githubusercontent.com/zylitcoll/zylitcoll/output/dist/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" 
           srcset="https://raw.githubusercontent.com/zyllitcoll/zyllitcoll/output/dist/pacman-contribution-graph.svg">
   <img alt="Pac-Man contribution graph" 
