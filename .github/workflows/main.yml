@@ -34,5 +34,5 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: output
           message: "chore: update pacman contribution graph"
-          directory: . # Push semua file dari root (termasuk SVG)
+          directory: dist # Push semua file dari root (termasuk SVG)
           force: true # Wajib agar branch 'output' selalu terupdate
