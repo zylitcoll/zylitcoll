@@ -1,4 +1,5 @@
 # 👋 Hi, I'm zylitcoll !
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=zylitcoll&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
@@ -6,8 +7,8 @@ I'm a passionate Web Developer & Tech Enthusiast 🚀
 
 ![GitHub Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zylitcoll&theme=tokyonight)
 
-
 ## 🔧 Technologies & Tools
+
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white)
@@ -20,20 +21,35 @@ I'm a passionate Web Developer & Tech Enthusiast 🚀
 ![Neovim](https://img.shields.io/badge/-Neovim-57A143?logo=neovim&logoColor=white)
 
 ## 📊 GitHub Stats
+
 ![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=zylitcoll&theme=tokyonight)  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=zylitcoll&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=480)](https://git.io/streak-stats)
 
 ## 🔥 Top Langs
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zylitcoll&layout=compact&theme=tokyonight)](https://github.com/zylitcoll)
 
 ## 🧠 Currently Learning
+
 - Advanced Neovim Configuration
 - Dockerizing Laravel & Next.js Projects
 - Building Personal Portfolio with Astro
 
 ## 📫 How to reach me
+
 [![Email](https://img.shields.io/badge/-your@email.com-c14438?logo=gmail&logoColor=white)](mailto:your@email.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
 
+## 🎮 Play games with me
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zylitcoll/zylitcoll/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zylitcoll/zylitcoll/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/zylitcoll/zylitcoll/output/pacman-contribution-graph.svg">
+</picture>
 
+###
+
+<img src="https://raw.githubusercontent.com/zylitcoll/zylitcoll/output/snake.svg" alt="Snake animation" />
+
+###
