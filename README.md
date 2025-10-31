@@ -52,9 +52,3 @@ I'm a passionate Web Developer & Tech Enthusiast 🚀
   <img alt="Pac-Man contribution graph" 
        src="https://raw.githubusercontent.com/zyllitcoll/zyllitcoll/output/pacman-contribution-graph.svg">
 </picture>
-
-###
-
-<img src="https://raw.githubusercontent.com/zylitcoll/zylitcoll/output/snake.svg" alt="Snake animation" />
-
-###
