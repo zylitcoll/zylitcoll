@@ -10,8 +10,7 @@ on:
 
 jobs:
   generate:
-    permissions:
-      contents: write
+    # Hapus permissions: contents: write untuk menggunakan GITHUB_TOKEN default yang lebih baik
     runs-on: ubuntu-latest
     timeout-minutes: 5
 
@@ -27,13 +26,13 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           # Tidak perlu output karena file disimpan di root secara default
 
-      # 3. PUSH KE OUTPUT BRANCH (Perubahan Krusial di 'build_dir')
+      # 3. PUSH KE OUTPUT BRANCH (Menggunakan actions-js/push yang lebih andal)
       - name: Push pacman.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: actions-js/push@v1.4
         with:
-          target_branch: output
-          # KRUSIAL: Ubah build_dir menjadi root repositori (titik)
-          # Ini memberitahu action untuk mengambil file dari mana pun Pac-Man menaruhnya.
-          build_dir: .
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # Gunakan GITHUB_TOKEN default, karena permissions telah dihapus
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: output
+          message: "chore: update pacman contribution graph"
+          directory: . # Push semua file dari root (termasuk SVG)
+          force: true # Wajib agar branch 'output' selalu terupdate
