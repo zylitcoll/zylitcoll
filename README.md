@@ -1,4 +1,7 @@
 # 👋 Hi, I'm zylitcoll !
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=zylitcoll&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 I'm a passionate Web Developer & Tech Enthusiast 🚀
 ![GitHub Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zylitcoll&theme=tokyonight)
 
