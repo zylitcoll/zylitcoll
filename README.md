@@ -48,6 +48,18 @@ I'm a passionate Web Developer & Tech Enthusiast 🚀
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/zylitcoll/zylitcoll/output/pacman-contribution-graph.svg">
 </picture>
 
+<script type="module">
+import { PacmanRenderer } from 'https://cdn.jsdelivr.net/npm/pacman-contribution-graph/dist/pacman-contribution-graph.min.js';
+const pr = new PacmanRenderer({
+    platform: 'github',
+    username: 'zylitcoll',
+    canvas: document.getElementById('canvas'),
+    outputFormat: 'canvas',
+    gameTheme: 'github'
+});
+pr.start();
+</script>
+
 ###
 
 <img src="https://raw.githubusercontent.com/zylitcoll/zylitcoll/output/snake.svg" alt="Snake animation" />
