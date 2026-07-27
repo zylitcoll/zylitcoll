@@ -37,8 +37,9 @@ I'm a passionate Web Developer & Tech Enthusiast 🚀
 
 ## 📫 How to reach me
 
-[![Email](https://img.shields.io/badge/-your@email.com-c14438?logo=gmail&logoColor=white)](mailto:your@email.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
+[![My Blog](https://img.shields.io/badge/-My%20Blog-121212?logo=astro&logoColor=white)](https://zikri-labs.edgeone.dev/)
+[![Email](https://img.shields.io/badge/-your@email.com-c14438?logo=gmail&logoColor=white)](mailto:zikrillah.info@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/zikrillah-zi)
 
 ## 🎮 Play games with me
 
